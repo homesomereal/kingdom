@@ -4,7 +4,4 @@ world
 22222
 <<<<<<< HEAD
 master 6
-=======
-master
-
->>>>>>> dev
+bugff
